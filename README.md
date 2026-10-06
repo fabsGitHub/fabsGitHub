@@ -6,7 +6,7 @@ I build practical applications that connect services, support workflows, and mak
 
 ## Selected work
 
-### [Team Analyzer](https://github.com/fabsGitHub/team-analyzer)
+### [Team Analyzer](https://github.com/fabsGitHub/team-analyzer-portfolio)
 A full-stack survey application with a Java and Spring Boot API, Vue 3 and TypeScript frontend, MySQL persistence, role-based management, and Docker Compose development setup.
 
 ### [BPI17 Log Quality](https://github.com/fabsGitHub/bpi17-log-quality)
