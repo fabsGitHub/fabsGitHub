@@ -9,6 +9,9 @@ I build practical applications that connect services, support workflows, and mak
 ### [Team Analyzer](https://github.com/fabsGitHub/team-analyzer)
 A full-stack survey application with a Java and Spring Boot API, Vue 3 and TypeScript frontend, MySQL persistence, role-based management, and Docker Compose development setup.
 
+### [BPI17 Log Quality](https://github.com/fabsGitHub/bpi17-log-quality)
+A reproducible Python command-line workflow for profiling and correcting selected timestamp and activity-label issues in process-mining event logs, with dataset-independent tests and continuous integration.
+
 ### [AnkiClipboardDeepLAutomator](https://github.com/fabsGitHub/AnkiClipboardDeepLAutomator)
 A macOS desktop workflow that sends selected text to DeepL and creates forward and reverse Anki cards through AnkiConnect, with optional speech audio.
 
@@ -17,7 +20,7 @@ A seq2seq research pipeline comparing word- and character-level models, recurren
 
 ## Technical focus
 
-Java · Spring Boot · Vue · TypeScript · Python · PyTorch · REST APIs · Docker
+Java · Spring Boot · Vue · TypeScript · Python · pandas · process mining · PyTorch · REST APIs · Docker
 
 ## About this portfolio
 
